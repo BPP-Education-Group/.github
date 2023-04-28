@@ -1,7 +1,7 @@
 # Summary
 Please include a summary of the changes and the related issue.
 What kind of change does this PR introduce? (Bug fix, feature, breaking change., docs update etc).
-What is the current behavior? What is the new behavior?
+What is the current behaviour? What is the new behaviour?
 Please also include relevant motivation and context.
 List any dependencies that are required for this change.
 
